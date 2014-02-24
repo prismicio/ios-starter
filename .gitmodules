@@ -1,0 +1,3 @@
+[submodule "PIAPI"]
+	path = PIAPI
+	url = git@github.com:prismicio/ios-kit.git
