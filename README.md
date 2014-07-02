@@ -1,8 +1,17 @@
 ## iOS development kit for prismic.io
 
+### **Note**
+
+This kit in currently a Work in Progress: some features may be missing.
+
+Any pull-request are most welcomed.
+
+The starter is currently configured for iPhone 5 with iOS 7.
+
 ### Getting Started with the kit
 
-:: TODO ::
+* Open the Starter-kit project with Xcode
+* Run the project
 
 #### Getting started with prismic.io
 
